@@ -1,0 +1,86 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+ body {
+      height: 1000px;
+      width: 1700px;
+      margin: 0;
+      font-family: Arial, sans-serif;
+
+    }
+
+    nav {
+      background-color: #009900;
+      overflow: hidden;
+    }
+
+    nav a {
+      float: left;
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 20px 60px;
+      text-decoration: none;
+    }
+
+    nav a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+
+
+    .haeri{
+      margin-top: 70px;
+      margin-left: 20px;
+      height: 250px; 
+    }
+
+   .haeri-inf{
+    width: 1200px;
+    margin-left: 370px;
+    margin-top: -255px;
+   }
+
+   .satauri-haeri{
+    margin-top: 20px;
+    margin-left: 650px;
+    font-size: 30px;
+   }
+
+   .satauri-wyali{
+    margin-top: 250px;
+    margin-left: 650px;
+    font-size: 30px;
+   }
+
+   .wyali{
+    margin-left: 20px;
+    margin-top: 80px;
+    width: 350px;
+   }
+
+   .wyali-inf{
+    margin-left:390px ;
+    margin-top: -200px;
+    width: 1100px;
+   }
+
+   .satauri-niadagi{
+    margin-top: 250px;
+    margin-left: 650px;
+    font-size: 30px;
+   }
+
+   .niadagi{
+    margin-left: 20px;
+    width: 350px;
+    margin-top: 80px;
+   }
+
+   .niadagi-inf{
+    margin-left: 390px;
+    margin-top: -230px;
+    width: 1100px;
+   }
